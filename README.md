@@ -1,2 +1,2 @@
 # self-learning
-Learning Material Includes Books, Research Papers, Courses &amp; more I have to study soon
+This repository is intended to be used for personal work only, all rights reserved to respective owners, please cite original authors and ask for permissions as specified in any document present here-in
